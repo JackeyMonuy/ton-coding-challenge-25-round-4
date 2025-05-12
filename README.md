@@ -12,7 +12,7 @@ https://t.me/TON_HongKong
 
 领奖信息收集：
 1. 你的 Telegram 用户名 = @Bledvrs
-2. 你的主网 TON 钱包地址 = UQDOfVrlUT1Jfr5K4VwY4Xd_ZnazLcvkp_kE143Tt3mdAlxr
+2. 你的主网 TON 钱包地址 =  UQDOfVrlUT1Jfr5K4VwY4Xd_ZnazLcvkp_kE143Tt3mdAlxr
 
 
 ## 任务 1：在 TON 测试网部署一个 Jetton 并转账
